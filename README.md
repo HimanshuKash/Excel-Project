@@ -62,7 +62,3 @@ Create two more identical pivot tables by following the same steps as in Task 3.
  b) For Pivot Table 3:
   Add the Equipment Class field above the Department field.
   Collapse all fields except the top one - CUV.
-
-7) Download Completed Workbook:
-Use 'Save As' and select 'Download a copy.'
-Save the completed workbook as "Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX."
