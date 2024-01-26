@@ -38,10 +38,10 @@ Utilize the 'Format as Table' option to format the dataset as a table.
 
 2) AutoSum Calculations (for Column 'C'):
 Use AutoSum to calculate the following values for Column 'C':
-SUM
-AVERAGE
-MIN
-MAX
+SUM,
+AVERAGE,
+MIN,
+MAX,
 COUNT
 
 3) Create a Pivot Table:
