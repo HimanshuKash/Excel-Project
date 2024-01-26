@@ -52,7 +52,7 @@ Place the Equipment Count in the Values section to display the sum of equipment 
 4) Sort Pivot Table Data:
 Utilize the 'Sort By Value' setting on the pivot table to arrange it in descending order based on the sum of equipment count.
 
-5)Duplicate Pivot Tables:
+5) Duplicate Pivot Tables:
 Create two more identical pivot tables by following the same steps as in Task 3.
 
 6) Analyze Data in Pivot Tables:
