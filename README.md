@@ -7,7 +7,7 @@
 2) Change the 'Viewing' in the ToolTip to 'Editing.'
 Save the CSV file as an XLSX file by clicking 'Convert' in the prompt.
 
-3)Column Widths Adjustment:
+3) Column Widths Adjustment:
 Sort out the widths of all columns to ensure clear visibility of data in each cell.
    
 4) Remove Empty Rows:
@@ -26,7 +26,7 @@ Utilize the Find and Replace feature to eliminate all instances of double-spaces
 Use Flash Fill to consolidate department names split over two columns into a single column.
 Remove any unnecessary columns after consolidating the department names.
 
-10) Final Data Review:
+9) Final Data Review:
 Conduct a final review of the entire dataset to ensure that all changes have been successfully implemented and that the data is accurate and well-formatted.
 Documentation:
 
