@@ -33,10 +33,10 @@ Documentation:
 ***********************************************************************************************************************************************************
 # Montogomery_Fleet_Equipment EXCEL PROJECT PART 2
 # Pivot Tables, Data Visualisation And Advance Excel functionality
-2) Format Data as Table:
+1) Format Data as Table:
 Utilize the 'Format as Table' option to format the dataset as a table.
 
-1) AutoSum Calculations (for Column 'C'):
+2) AutoSum Calculations (for Column 'C'):
 Use AutoSum to calculate the following values for Column 'C':
 SUM
 AVERAGE
